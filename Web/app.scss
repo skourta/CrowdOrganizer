@@ -1,0 +1,56 @@
+@import "@material/textfield/mdc-text-field";
+@import "@material/button/mdc-button";
+@import "@material/card/mdc-card";
+
+html, body {
+  height: 100%;
+}
+#map{
+  margin: auto;
+    width: 50%;
+    margin-top: 45px;
+  width: 1024px;
+  height: 576px;
+
+}
+
+body {
+  font-family: 'Roboto';
+  padding-top: 0.1px; // Prevent header h1 margin from pushing body down
+  background:linear-gradient(#00d0c0 ,#00c2eb);
+}
+
+// Login page styles
+// .username,
+// .password {
+//   display: block;
+//   width: 300px;
+//   margin: 20px auto;
+// }
+// .button-container {
+//   display: flex;
+//   justify-content: flex-end;
+//   width: 300px;
+//   margin: auto;
+// }
+
+// .button-container button {
+//   margin: 3px;
+// }
+
+// .header {
+//   text-align: center;
+// }
+
+// .shrine-logo {
+//   width: 150px;
+//   height: 150px;
+//   padding-top: 80px;
+//   fill: currentColor;
+// }
+
+// // Home page styles
+
+.home {
+  display: flex; // Flexbox is used to easily arrange the persistent drawer and content side-by-side
+}

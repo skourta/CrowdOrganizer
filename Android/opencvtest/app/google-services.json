@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "355329657895",
+    "firebase_url": "https://my-project-1500134577736.firebaseio.com",
+    "project_id": "my-project-1500134577736",
+    "storage_bucket": "my-project-1500134577736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355329657895:android:aad132caa3c4d3fa",
+        "android_client_info": {
+          "package_name": "com.akramlebcir.mac.opencvtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355329657895-7e5jnpcnm47m2bb7esth75eg40s89qpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akramlebcir.mac.opencvtest",
+            "certificate_hash": "5237e9fc279049518de34e1694426dafccd1855d"
+          }
+        },
+        {
+          "client_id": "355329657895-alajuje6bq55qturvpbk7853ablq4bbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkCbnggIY0Q_p7SqtPTMf_Eg2EGDePilo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355329657895-alajuje6bq55qturvpbk7853ablq4bbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355329657895:android:88be19a9769b0b77",
+        "android_client_info": {
+          "package_name": "com.lebcirakram.mac.transports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355329657895-ind9l7qcj0la17cmhq4nfrueqqallct5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lebcirakram.mac.transports",
+            "certificate_hash": "5237e9fc279049518de34e1694426dafccd1855d"
+          }
+        },
+        {
+          "client_id": "355329657895-alajuje6bq55qturvpbk7853ablq4bbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkCbnggIY0Q_p7SqtPTMf_Eg2EGDePilo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355329657895-alajuje6bq55qturvpbk7853ablq4bbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8512591933405657~5941787825"
+    }
+  ],
+  "configuration_version": "1"
+}
