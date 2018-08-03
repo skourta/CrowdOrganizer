@@ -1,0 +1,47 @@
+<div class="row" id="main" >
+          <div class="col s9 ">
+            
+              <mat-card id="card">
+                  <mat-card-title>List of Drones :</mat-card-title>
+                
+                <ul class="heroes">
+                  <li *ngFor="let drone of drones; let i = index">
+                    <h3><img src="./assets/drone-bleu.png" height="10"/> Drone N°{{i+1}}</h3>
+                <div><span>Status: </span>{{drone.status}}</div>
+                <mat-divider [inset]="true" id="divider"></mat-divider> 
+                  </li>
+                </ul>
+                </mat-card>
+
+            <mat-card id="card2">
+                <img src="./assets/00.jpg" style="max-height:100%;">
+
+                <p class="textCenter">Number</p>
+                              <p id="dNum" >1003</p>
+
+                              <p class="textCenter">Coordinates</p>
+                                <p id="dNum" >42.3 21.5 </p>
+                                <p class="textCenter">Battery</p>
+            </mat-card>
+            <div id="map"></div>
+
+
+                    
+                 
+                              
+                              <p class="textCenter">Status</p>
+                                
+                                
+                              <p>Drone Commands</p>
+                                <div style="margin:5px;"><a class="waves-effect waves-light btn sameSize">Call Back</a></div>
+                                <div style="margin:5px;"><a class="waves-effect waves-light btn sameSize">Reroute</a></div>
+
+                                    <li><a href="#!">Sound Instructions</a></li>
+                                    <li><a href="#!">Light Orientation</a></li>
+                                   
+                                  <a class="btn dropdown-trigger" href="#!" data-target="dropdown2">Take Action<i class="material-icons right">arrow_drop_down</i></a>
+
+        </div>
+     
+      </div>
+

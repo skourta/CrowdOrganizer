@@ -1,0 +1,37 @@
+#map{
+    height: 630px;
+  }
+
+
+
+  * {
+    font-family: Raleway /*Replace with your custom font*/, sans-serif !important; 
+    /*Add the !important to overwrite all elements*/
+  }
+
+#card{
+    width: 200px;
+    z-index: 3;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 160px
+}
+h3{
+    color: gray;
+}
+ul {
+    list-style-type: none;
+  }
+  #divider{
+      color: lightgray;
+  }
+
+  #card2{
+    width: 60%;
+    height: 20%;
+    z-index: 3;
+    position: absolute;
+    bottom: 30px;
+    right: 60px;
+    padding: 0%;
+  }
